@@ -26,7 +26,7 @@ def discord_bot():
             await message.channel.send('hello!')
 
     # line to run the bot
-    bot_token = "MTE0OTcyNzE5MDQxNDUyNDQ4Ng.G7CWrP.FimiSmZLB0eKIQLcTSVQ4gYJN_MMe94skCoef0"
+    bot_token = ""
     client.run(bot_token)
 
 
